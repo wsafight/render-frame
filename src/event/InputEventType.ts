@@ -9,3 +9,9 @@ export const enum InputEventType {
   KeyDown,
   KeyPress
 }
+
+export const enum MouseButton {
+  Left,
+  Middle,
+  Right
+}
