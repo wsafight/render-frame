@@ -1,0 +1,9 @@
+{
+  "name": "render-frame",
+  "description": "wait",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "esbuild": "^0.10.0"
+  }
+}
